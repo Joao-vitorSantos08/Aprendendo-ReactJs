@@ -1,0 +1,26 @@
+
+.card-grid{
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.card{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px #000;
+    padding: 20px;
+    transition: 0.5s;
+    width: 300px;
+}
+
+.card p {
+    width: 300px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
