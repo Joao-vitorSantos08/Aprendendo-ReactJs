@@ -68,7 +68,7 @@ Este é o meu primeiro projeto desenvolvido com React, criado durante as aulas d
    ```
    npm run dev
 
-   ## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 - **React** – Biblioteca para construção de interfaces com componentes
 - **Vite** – Ferramenta para criação e build de projetos React
