@@ -23,8 +23,7 @@ Este é o meu primeiro projeto desenvolvido com React, criado durante as aulas d
 - `public/`: Pasta para arquivos estáticos públicos, como imagens e o `favicon.ico`.
 
 - `src/`: Pasta principal onde está todo o código-fonte da aplicação React.
-  - *(Subpastas ou arquivos internos não mostrados na imagem, mas normalmente aqui ficam os componentes e estilos)*
-
+- 
 - `.gitignore`: Arquivo que define quais arquivos e pastas devem ser ignorados pelo Git (ex: `node_modules`).
 
 - `eslint.config.js`: Configuração do ESLint para análise e padronização do código JavaScript/JSX.
